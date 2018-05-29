@@ -8,7 +8,7 @@ a tool to learn more about promises.
 Install the dependencies in the app as well as Jest globally:
 
 ```
-cd promise-tdd
+cd tdd-starter
 npm install
 npm install jest -g
 ```
